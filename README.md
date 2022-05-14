@@ -6,7 +6,6 @@ https://github.com/nstroude/elk-virtual-machine/blob/main/Diagrams/cloud%20secur
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the filebeat-playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-https://github.com/nstroude/elk-virtual-machine/blob/main/Ansible/filebeat-playbook.yml
 
 This document contains the following details:
 
